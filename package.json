@@ -1,7 +1,7 @@
 {
   "name": "proyect1",
   "version": "1.0.0",
-  "description": "Este es mi primer proyectop de javascrit con open bootcamp",
+  "description": "Este es mi primer proyecto de javascrit con open bootcamp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
